@@ -16,6 +16,7 @@ Try to find another YouTube video which is helpful for learning Selenium and put
 BugZilla is a defect tracking tool.
 GitHub has a feature called Issues, which is also a defect tracking tool.
 In this hands-on lab, you will learn and use GitHub Issues.
+You will need to sign up for a GitHub account to enter GitHub Defect Issues, which is free.
 As you read the documentation and see YouTube videos, you are required to try out creating issues on GitHub.
 You can assign the issues to me, Todd Booth.
 You can create fictitious Issues against this hands-on assignment repository.
