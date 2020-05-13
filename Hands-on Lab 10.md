@@ -21,6 +21,7 @@ As you read the documentation and see YouTube videos, you are required to try ou
 You can assign the issues to me, Todd Booth.
 You can create fictitious Issues against this hands-on assignment repository.
 
+First see this very short [YouTube GitHub Issues Video] (https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
 Please review [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
 Please also review [These GitHub Issues Documentation Web Pages](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues).
 
