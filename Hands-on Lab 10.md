@@ -21,6 +21,7 @@ As you read the documentation and see YouTube videos, you are required to try ou
 You can assign the issues to me, Todd Booth.
 You can create fictitious Issues against this hands-on assignment repository.
 If you have any suggestions to change this lab, you can create an issue and assign it to me.
+Try adding images to the issues you create.
 
 First see this very short [YouTube GitHub Issues Video] (https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
 Please review [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
