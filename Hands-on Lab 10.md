@@ -1,4 +1,4 @@
-Hi,
+Hi Students,
 
 For this lab, there are two parts, the Web Site automation testing and GitHub Issues defect tracking.
 Please write a combined report, for both of the following, which is at least two pages (700 words) paper with your summary and reflections.
