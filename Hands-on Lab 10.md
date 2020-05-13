@@ -25,4 +25,7 @@ First see this very short [YouTube GitHub Issues Video] (https://www.youtube.com
 Please review [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
 Please also review [These GitHub Issues Documentation Web Pages](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues).
 
+You will no longer need any of the Amazon AWS instances, so you can delete them all if you want.
+Your original AWS $50 USD credits are good until April, 2021, so you can use them after this course is over.
+
 Good Luck, Teacher Todd
