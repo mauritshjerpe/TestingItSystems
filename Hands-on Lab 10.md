@@ -9,7 +9,7 @@ The report should state how many hours it took each student (in the reflections 
 
 ## Web Site Automation
 Selenium is a Web Site automation scripting test tool.
-Please see this [YouTube Video](https://www.youtube.com/watch?v=cobEbkTwbwY) about Selenium.  It is optional, but recommended, to try and run Selenium, as you watch the video.
+Please see this [YouTube Video](https://www.youtube.com/watch?v=cobEbkTwbwY) about Selenium.  Try and run Selenium, as you watch the video.  If you fail, that is OK, but add your related reflections to the report.
 Try to find another YouTube video which is helpful for learning Selenium and put that into your report.
 
 ## GitHub Issues
