@@ -15,18 +15,23 @@ Try to find another YouTube video which is helpful for learning Selenium and put
 ## GitHub Issues
 BugZilla is a defect tracking tool.
 GitHub has a feature called Issues, which is also a defect tracking tool.
-Please see this 4 minutes introduction [YouTube video about GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E).
 In this hands-on lab, you will learn and use GitHub Issues.
 You will need to sign up for a GitHub account to enter GitHub Defect Issues, which is free.
-As you read the documentation and see YouTube videos, you are required to try out creating issues on GitHub.
+
+As you read the documentation and see the following YouTube videos, you are required to try out creating issues on GitHub.
 You can assign the issues to me, Todd Booth.
 You can create fictitious Issues against this hands-on assignment repository.
 If you have any suggestions to change this lab, you can create an issue and assign it to me, as a bug or enhancement.
 Try adding images to the issues you create.
 
-First see this very short [YouTube GitHub Issues Video] (https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
-Please review [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
-Please also review [These GitHub Issues Documentation Web Pages](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues).
+See the following videos:
+
+1. Video - [YouTube GitHub Issues Video](https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
+2. Video - [YouTube video about GitHub and Issues](https://www.youtube.com/watch?v=w3jLJU7DT5E).
+3. Video - [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
+4. Web Pages [These GitHub Issues Documentation Web Pages](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues).
+
+GitHub has their own one hour introduction course, which is optional and [Found Here](https://lab.github.com/githubtraining/introduction-to-github).
 
 You will no longer need any of the Amazon AWS instances, so you can delete them all if you want.
 Your original AWS $50 USD credits are good until April, 2021, so you can use them after this course is over.
