@@ -21,7 +21,7 @@ You will need to sign up for a GitHub account to enter GitHub Defect Issues, whi
 As you read the documentation and see the following YouTube videos, you are required to try out creating issues on GitHub.
 You can assign the issues to me, Todd Booth.
 You can create fictitious Issues against this hands-on assignment repository.
-If you have any suggestions to change this lab, you can create an issue and assign it to me, as a bug or enhancement.
+If you have any suggestions to change this lab, you can create a real issue, instead of a fake issue.
 Try adding images to the issues you create.
 
 See the following videos:
