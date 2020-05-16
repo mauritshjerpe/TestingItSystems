@@ -19,7 +19,7 @@ In this hands-on lab, you will learn and use GitHub Issues.
 You will need to sign up for a GitHub account to enter GitHub Defect Issues, which is free.
 
 As you read the documentation and see the following YouTube videos, you are required to try out creating issues on GitHub.
-You can assign the issues to me, Todd Booth.
+You can assign the issues to me, Todd Booth, which is the default.  I.E., you implicity assign it to me.
 You can create fictitious Issues against this hands-on assignment repository.
 If you have any suggestions to change this lab, you can create a real issue, instead of a fake issue.
 Try adding images to the issues you create.
