@@ -9,7 +9,7 @@ The report should state how many hours it took each student (in the reflections 
 
 ## Web Site Automation
 Selenium is a Web Site automation scripting test tool.
-Please see this [YouTube Video](https://www.youtube.com/watch?v=cobEbkTwbwY) about Selenium.  Try and run Selenium, as you watch the video.  For example, you could write a script to do a Google Search.  Or you could login to Ltu.Se, with your student account.  If you fail, that is OK, but add your related reflections to the report.
+Please see this [YouTube Video](https://www.youtube.com/watch?v=cobEbkTwbwY) about Selenium. If you have problems with following the youtube tutorial that was linked with the lab, use this [Alternative Link](https://softwaretestingbooks.com/selenium-webdriver-script-in-netbeans-using-firefox) which will help you setup with NetBeans and FireFox.  Try and run Selenium, as you watch the video.  For example, you could write a script to do a Google Search.  Or you could login to Ltu.Se, with your student account.  If you fail, that is OK, but add your related reflections to the report.
 Try to find another YouTube video which is helpful for learning Selenium and put that into your report.
 
 ## GitHub Issues
