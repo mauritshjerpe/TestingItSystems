@@ -35,7 +35,7 @@ See the following videos:
 GitHub has their own one hour introduction course, which is optional and [Found Here](https://lab.github.com/githubtraining/introduction-to-github).
 
 You will no longer need any of the Amazon AWS instances, so you can delete them all if you want.
-Your original AWS $50 USD credits are good until April, 2021, so you can use them after this course is over.
+Your original AWS $50 USD credits are good until January 3rd, 2021, so you can use them after this course is over.
 Also, GitHub has a package deal where you can get another $100 USD in AWS Cloud Educate credits.
 It also includes $100 in the Microsoft Azure Cloud and much more.  Here is the [GitHub Special URL](https://education.github.com/pack#offers).
 
