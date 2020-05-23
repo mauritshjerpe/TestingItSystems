@@ -25,7 +25,7 @@ You can create fictitious Issues against this hands-on assignment repository.
 If you have any suggestions to change this lab, you can create a real issue, instead of a fake issue.
 Try adding images to the issues you create.
 
-See the following videos:
+See the following videos and Web pages:
 
 1. Video - [YouTube GitHub Issues Video](https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
 2. Video - [YouTube video about GitHub and Issues](https://www.youtube.com/watch?v=w3jLJU7DT5E).
